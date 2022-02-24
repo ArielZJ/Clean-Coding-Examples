@@ -1,5 +1,5 @@
 # Clean-Coding-Examples
-Examples of clean vs unclean scripts to show to new students  
+Examples of clean vs unclean scripts to show to new students. Click on the '.ipynb' files shown above to look at them.  
   
 The 'Clean' script contains comments, clear variable names, program information, and other clean coding practices to make it easy to read. This makes it easier for both you and others to come back to this in the future and modify it and/or expand on it.  
 
